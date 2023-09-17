@@ -1,5 +1,3 @@
-Thank you for providing the details of your project. Let's create a README file for your GitHub repository based on the information you provided:
-
 # (HeartSense) Heart Disease Prediction
 
 ![image](https://github.com/Pratham1234github/HEART_DISEASE-PROJECT/assets/128221408/a7db772c-3b33-476e-9718-84ed73de2407)
